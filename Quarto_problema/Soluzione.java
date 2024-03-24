@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;
 
-public class UltimoEsercizio {
+public class Soluzione {
 
     static void toString_(byte[] bytes) {
 
