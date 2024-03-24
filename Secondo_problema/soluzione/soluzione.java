@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
-public class Main {
+public class Soluzione {
 
     public static void main(String[] args) throws Exception {
         int sum = 0;
