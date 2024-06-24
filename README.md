@@ -1,2 +1,4 @@
-#Coding-Jam-2024
-Risultato ottenuto: Vittoria della competizione
+<b>Coding-Jam-2024</b>
+
+
+Risultato ottenuto: VITTORIA della competizione🏆
